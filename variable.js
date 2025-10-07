@@ -146,7 +146,7 @@ console.log(50%9);
 
 // --------------
 
-const firstName = "Bangla"
+const firstName = "Bangla" 
 const lastName = "desh"
 
 const fullName = firstName+lastName
