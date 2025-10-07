@@ -80,6 +80,102 @@ const isDinnerDone = false;
 console.log(isDinnerDone);
 
 
+//  Math practice 
+
+const credit = 100
+const debit = 40
+
+const left = credit-debit 
+console.log(left);
+
+
+// ------------
+
+const pencil= 10
+const useEveryTime= 2
+
+const totalUse = pencil/useEveryTime
+console.log(totalUse);
+
+// ---------------
+
+const money= 60
+const spent= 15
+
+const totalMoneyUse= money/spent
+console.log(totalMoneyUse);
+
+const leftMoney = money%spent
+console.log(leftMoney);
+
+// ----------------
+
+
+const first= "Hello"
+const second= "World"
+
+const add= first+second
+console.log(add);
+
+// ----------------
+
+const rice= 153 
+const dal = 261
+
+const totalKg = rice+dal 
+console.log(totalKg + " kg");
+
+// ------------------
+
+const totalMoney = 500
+const useMoneyEveryTime = 75
+
+const totalUseMoney = totalMoney/useMoneyEveryTime
+console.log(totalUseMoney);
+
+const totalRemained = totalMoney%useMoneyEveryTime
+console.log(totalRemained);
+
+// -----------------
+
+console.log((8/3), (8%3));
+
+// --------------
+
+console.log(50%9);
+
+// --------------
+
+const firstName = "Bangla"
+const lastName = "desh"
+
+const fullName = firstName+lastName
+console.log(fullName);
+
+// -------------
+
+const totalRice = 480
+const hasEatenDaily= 4
+
+const totalDays= totalRice/hasEatenDaily
+console.log(totalDays);
+
+const totalMonth = totalDays/30
+console.log(totalMonth);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
