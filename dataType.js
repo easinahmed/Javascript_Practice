@@ -87,6 +87,57 @@ const studyyTime = 7
 // i dont want to study 
 
 
+// ----------
+const favFood = "Kacchi Of Sultan Dine"
+
+const superOver = 15
+console.log(superOver);
+
+
+
+//parse and NaN
+
+const firstN = "20"
+const secondN = 10
+
+const totalN = parseInt(firstN) + secondN
+console.log(totalN);
+
+// ---------
+const decimal= 3.14159
+const fullN = parseInt(decimal)
+console.log(fullN);
+
+// -----------
+const p = parseInt("premikboy")
+console.log(p);
+
+// -----------
+
+const a= 3.456
+const b = 2.789
+const ab= a+b
+
+console.log(parseFloat(ab.toFixed(2)));
+// --------
+
+const c= "56.78"
+const d= "12.34"
+
+const cd=  parseFloat(c)+parseFloat(d)
+console.log(cd);
+
+// ----------
+
+const e= "10.5678"
+const f =" 5.4321"
+
+const ef= parseFloat(e)+ parseFloat(f)
+console.log(ef.toFixed(1));
+
+
+
+console.log(parseFloat("42.45689754").toFixed(3));
 
 
 
