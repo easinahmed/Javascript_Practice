@@ -59,3 +59,33 @@ if (price>= 5000) {
     
 }
 
+// Nested Condition
+const money = 200
+const popcornPrice = 60
+
+if (money >= 300){
+    console.log("Going to watch a movie");
+    if (popcornPrice<= 50) {
+        console.log("Buying a Popcorn");
+        
+        
+    }else{
+        console.log("Popcorn is too expensive");
+        
+    }
+    
+}else{
+    console.log("Home Alone");
+    
+}
+
+// Ternary Oparetor
+const age=18
+
+age >= 18 ? console.log("Eligible") : console.log("Not Eligible");
+
+let isPrice= 500
+let isLeader =false
+
+isPricerice = !isLeader ? console.log("apner laiga free"): console.log(isPrice+100);
+
