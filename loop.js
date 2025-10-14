@@ -48,4 +48,4 @@ while (number < 50) {
 }console.log(sumOFNum);
 
 
-
+// ---------
